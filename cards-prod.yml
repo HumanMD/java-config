@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to cards related QA APIs"
+  contactDetails:
+    name: "Human Md - PO"
+    email: "wthuman.hm@gmail.com"
+  onCallSupport:
+    - 3312475574
