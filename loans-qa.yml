@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to loans related QA APIs"
+  contactDetails:
+    name: "Human Md - QA Lead"
+    email: "wthuman.hm@gmail.com"
+  onCallSupport:
+    - 3312475574

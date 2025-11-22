@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to cards related Local APIs"
+  contactDetails:
+    name: "Human Md - Developer"
+    email: "wthuman.hm@gmail.com"
+  onCallSupport:
+    - 3312475574
