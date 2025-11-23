@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to cards related QA APIs"
   contactDetails:
     name: "Human Md - PO"
-    email: "wthuman.hm@gmail.com"
+    email: "{cipher}f9490d97f88fcc7095b2a3060367cc2727a618eb6730102ccaaec0c5c036e13c727e2f192b6baa0e40d551d2b2c40100"
   onCallSupport:
-    - 3312475574
+    - {cipher}ab6ed6397e6b1b656c0d13fb140a7df7b68014763d960554d03db63b344a5183
